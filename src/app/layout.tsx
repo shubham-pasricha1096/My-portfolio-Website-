@@ -14,6 +14,8 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+import Chatbot from "@/components/Chatbot";
+
 export const metadata: Metadata = {
   title: `${resumeData.name} - ${resumeData.title}`,
   description: resumeData.about,
@@ -31,6 +33,7 @@ export default function RootLayout({
       >
         <Header />
         <main>{children}</main>
+        <Chatbot />
       </body>
     </html>
   );

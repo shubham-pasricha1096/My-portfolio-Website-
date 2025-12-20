@@ -9,7 +9,7 @@ export const resumeData = {
         github: "https://github.com/shubham-pasricha1096",
     },
     about:
-        "Driven IT undergraduate with a strong foundation in software engineering, cybersecurity, and data science. Proficient in modern programming languages such as Python, Java, and C++, with extensive knowledge in data structures, algorithms, and cloud computing platforms like Google Cloud (GCP). Experienced in developing secure and distributed systems, network protocols (TCP/IP), and leveraging Agile methodologies to deliver high-quality software solutions.",
+        "I am a 3rd-year BCA student at Christ University specializing in Machine Learning and Data Science. My work sits at the intersection of intelligent systems and cloud infrastructure, with a core focus on Natural Language Processing (NLP) and Large Language Models (LLMs). My experience ranges from building and deploying interactive chatbots to optimizing scalable storage and compute resources on AWS. I am driven by the challenge of bridging the gap between academic research and industry-grade AI solutions. As I prepare for higher studies in Data Science, I am actively seeking opportunities to apply my technical skills to real-world AI/ML landscapes",
     education: [
         {
             school: "CHRIST (Deemed to be University), Delhi",
